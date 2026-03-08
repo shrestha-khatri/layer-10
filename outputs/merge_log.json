@@ -1,0 +1,252 @@
+[
+  {
+    "merge_id": "mrg_00001",
+    "winner_id": "ent_04690e2cd832",
+    "loser_id": "ent_a2902058175a",
+    "reason": "EMAIL_NAME_MATCH",
+    "similarity": 0.98,
+    "merged_at": "2026-03-08T17:52:06.199844",
+    "merged_by": "system",
+    "notes": "'Kenneth' \u2192 'Kenneth Lay'"
+  },
+  {
+    "merge_id": "mrg_00002",
+    "winner_id": "ent_61286110c1ef",
+    "loser_id": "ent_636f9b5d7eca",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.199891",
+    "merged_by": "system",
+    "notes": "'Jeff' \u2192 'Jeff Skilling'"
+  },
+  {
+    "merge_id": "mrg_00003",
+    "winner_id": "ent_6e7f330d73b7",
+    "loser_id": "ent_e18ab4b97ad1",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.199924",
+    "merged_by": "system",
+    "notes": "'Pipeline Migration Project' \u2192 'Infrastructure Modernization Initiative'"
+  },
+  {
+    "merge_id": "mrg_00004",
+    "winner_id": "ent_61286110c1ef",
+    "loser_id": "ent_636f9b5d7eca",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.199944",
+    "merged_by": "system",
+    "notes": "'Jeff' \u2192 'Jeff Skilling'"
+  },
+  {
+    "merge_id": "mrg_00005",
+    "winner_id": "ent_8ce631f54000",
+    "loser_id": "ent_9c4babf7251c",
+    "reason": "FUZZY_MATCH",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200334",
+    "merged_by": "system",
+    "notes": "'Andrew' \u2192 'Andrew Fastow'"
+  },
+  {
+    "merge_id": "mrg_00006",
+    "winner_id": "ent_4277b29886cf",
+    "loser_id": "ent_b209e2fdd8fd",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200378",
+    "merged_by": "system",
+    "notes": "'EES team' \u2192 'EES Systems'"
+  },
+  {
+    "merge_id": "mrg_00007",
+    "winner_id": "ent_6e7f330d73b7",
+    "loser_id": "ent_e18ab4b97ad1",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200393",
+    "merged_by": "system",
+    "notes": "'Pipeline Migration Project' \u2192 'Infrastructure Modernization Initiative'"
+  },
+  {
+    "merge_id": "mrg_00008",
+    "winner_id": "ent_04690e2cd832",
+    "loser_id": "ent_f0490e657d31",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200417",
+    "merged_by": "system",
+    "notes": "'Ken' \u2192 'Kenneth Lay'"
+  },
+  {
+    "merge_id": "mrg_00009",
+    "winner_id": "ent_6e7f330d73b7",
+    "loser_id": "ent_44b27d4f59e8",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200470",
+    "merged_by": "system",
+    "notes": "'pipeline migration' \u2192 'Infrastructure Modernization Initiative'"
+  },
+  {
+    "merge_id": "mrg_00010",
+    "winner_id": "ent_8ce631f54000",
+    "loser_id": "ent_ec61a5a67c10",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200484",
+    "merged_by": "system",
+    "notes": "'Andy' \u2192 'Andrew Fastow'"
+  },
+  {
+    "merge_id": "mrg_00011",
+    "winner_id": "ent_61286110c1ef",
+    "loser_id": "ent_636f9b5d7eca",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200495",
+    "merged_by": "system",
+    "notes": "'Jeff' \u2192 'Jeff Skilling'"
+  },
+  {
+    "merge_id": "mrg_00012",
+    "winner_id": "ent_04690e2cd832",
+    "loser_id": "ent_f0490e657d31",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200508",
+    "merged_by": "system",
+    "notes": "'Ken' \u2192 'Kenneth Lay'"
+  },
+  {
+    "merge_id": "mrg_00013",
+    "winner_id": "ent_6e7f330d73b7",
+    "loser_id": "ent_e18ab4b97ad1",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.200525",
+    "merged_by": "system",
+    "notes": "'pipeline migration project' \u2192 'Infrastructure Modernization Initiative'"
+  },
+  {
+    "merge_id": "mrg_00014",
+    "winner_id": "ent_4277b29886cf",
+    "loser_id": "ent_d2c74f881d6d",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202403",
+    "merged_by": "system",
+    "notes": "'EES trading platform' \u2192 'EES Systems'"
+  },
+  {
+    "merge_id": "mrg_00015",
+    "winner_id": "ent_4277b29886cf",
+    "loser_id": "ent_90c991af4681",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202414",
+    "merged_by": "system",
+    "notes": "'EES team' \u2192 'EES Systems'"
+  },
+  {
+    "merge_id": "mrg_00016",
+    "winner_id": "ent_8ce631f54000",
+    "loser_id": "ent_ec61a5a67c10",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202429",
+    "merged_by": "system",
+    "notes": "'Andy' \u2192 'Andrew Fastow'"
+  },
+  {
+    "merge_id": "mrg_00017",
+    "winner_id": "ent_3e88d02e601c",
+    "loser_id": "ent_ed3379936a4d",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202441",
+    "merged_by": "system",
+    "notes": "'Louise' \u2192 'Louise Kitchen'"
+  },
+  {
+    "merge_id": "mrg_00018",
+    "winner_id": "ent_4277b29886cf",
+    "loser_id": "ent_03ff6b257b93",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202457",
+    "merged_by": "system",
+    "notes": "'EES' \u2192 'EES Systems'"
+  },
+  {
+    "merge_id": "mrg_00019",
+    "winner_id": "ent_8ce631f54000",
+    "loser_id": "ent_896ec76fbb12",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202468",
+    "merged_by": "system",
+    "notes": "'Andy Fastow' \u2192 'Andrew Fastow'"
+  },
+  {
+    "merge_id": "mrg_00020",
+    "winner_id": "ent_8ce631f54000",
+    "loser_id": "ent_ec61a5a67c10",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202486",
+    "merged_by": "system",
+    "notes": "'Andy' \u2192 'Andrew Fastow'"
+  },
+  {
+    "merge_id": "mrg_00021",
+    "winner_id": "ent_61286110c1ef",
+    "loser_id": "ent_636f9b5d7eca",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202505",
+    "merged_by": "system",
+    "notes": "'Jeff' \u2192 'Jeff Skilling'"
+  },
+  {
+    "merge_id": "mrg_00022",
+    "winner_id": "ent_04690e2cd832",
+    "loser_id": "ent_f0490e657d31",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202515",
+    "merged_by": "system",
+    "notes": "'Ken' \u2192 'Kenneth Lay'"
+  },
+  {
+    "merge_id": "mrg_00023",
+    "winner_id": "ent_4277b29886cf",
+    "loser_id": "ent_68537cfe2566",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202526",
+    "merged_by": "system",
+    "notes": "'EES' \u2192 'EES Systems'"
+  },
+  {
+    "merge_id": "mrg_00024",
+    "winner_id": "ent_7394645ec1e4",
+    "loser_id": "ent_aa34a5951e85",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202567",
+    "merged_by": "system",
+    "notes": "'IT Security' \u2192 'IT Security'"
+  },
+  {
+    "merge_id": "mrg_00025",
+    "winner_id": "ent_3e88d02e601c",
+    "loser_id": "ent_05a778508e43",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T17:52:06.202577",
+    "merged_by": "system",
+    "notes": "'VP, EES' \u2192 'Louise Kitchen'"
+  }
+]

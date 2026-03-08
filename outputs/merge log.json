@@ -1,0 +1,32 @@
+[
+  {
+    "merge_id": "mrg_00001",
+    "winner_id": "ent_6e7f330d73b7",
+    "loser_id": "ent_e18ab4b97ad1",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T05:20:20.171727",
+    "merged_by": "system",
+    "notes": "'Pipeline Migration Project' \u2192 'Infrastructure Modernization Initiative'"
+  },
+  {
+    "merge_id": "mrg_00002",
+    "winner_id": "ent_6e7f330d73b7",
+    "loser_id": "ent_e18ab4b97ad1",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T05:20:20.171789",
+    "merged_by": "system",
+    "notes": "'Pipeline Migration Project' \u2192 'Infrastructure Modernization Initiative'"
+  },
+  {
+    "merge_id": "mrg_00003",
+    "winner_id": "ent_6e7f330d73b7",
+    "loser_id": "ent_e18ab4b97ad1",
+    "reason": "ALIAS",
+    "similarity": 1.0,
+    "merged_at": "2026-03-08T05:20:20.171816",
+    "merged_by": "system",
+    "notes": "'Pipeline Migration Project' \u2192 'Infrastructure Modernization Initiative'"
+  }
+]

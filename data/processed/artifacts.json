@@ -1,0 +1,261 @@
+[
+  {
+    "source_id": "email_a9f30b7e63",
+    "artifact_type": "email",
+    "sender": "kenneth.lay@enron.com",
+    "recipients": [
+      "jeff.skilling@enron.com",
+      "andrew.fastow@enron.com"
+    ],
+    "subject": "Pipeline Migration Project - Ownership",
+    "body": "Jeff,\n\nAfter our board discussion last Thursday, I've decided that Andrew will lead \nthe pipeline migration project going forward. He has the finance background \nwe need and has agreed to take full ownership of the Q4 deliverable.\n\nThe deadline is December 31, 2001. Priority is HIGH given the regulatory \npressure we're under.\n\nKen will stay involved as executive sponsor but Andrew Fastow is the primary owner.\n\nRegards,\nKenneth",
+    "timestamp": "2001-10-15T09:14:00",
+    "thread_id": "Pipeline Migration Project - Ownership",
+    "raw_headers": {
+      "Message-ID": "<msg001@enron.com>",
+      "From": "kenneth.lay@enron.com",
+      "To": "jeff.skilling@enron.com, andrew.fastow@enron.com",
+      "Subject": "Pipeline Migration Project - Ownership",
+      "Date": "Mon, 15 Oct 2001 09:14:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.209945"
+  },
+  {
+    "source_id": "email_4ff18f6e80",
+    "artifact_type": "email",
+    "sender": "jeff.skilling@enron.com",
+    "recipients": [
+      "kenneth.lay@enron.com"
+    ],
+    "subject": "RE: Pipeline Migration Project - Ownership",
+    "body": "Ken,\n\nUnderstood. I'll loop Andrew in on the weekly status calls.\n\nOne concern: the December 31 deadline seems aggressive given the audit \nissues we're dealing with. Can we push to January 15, 2002?\n\nAlso, the EES team (Louise Kitchen's group) will need to be involved \nsince they depend on the pipeline data feeds.\n\nJeff",
+    "timestamp": "2001-10-15T11:32:00",
+    "thread_id": "Pipeline Migration Project - Ownership",
+    "raw_headers": {
+      "Message-ID": "<msg002@enron.com>",
+      "From": "jeff.skilling@enron.com",
+      "To": "kenneth.lay@enron.com",
+      "Subject": "RE: Pipeline Migration Project - Ownership",
+      "Date": "Mon, 15 Oct 2001 11:32:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.210093"
+  },
+  {
+    "source_id": "email_4209a3d7d7",
+    "artifact_type": "email",
+    "sender": "andrew.fastow@enron.com",
+    "recipients": [
+      "jeff.skilling@enron.com"
+    ],
+    "subject": "Pipeline Migration - Status Update",
+    "body": "Jeff,\n\nConfirming I've taken ownership of the pipeline migration per Ken's directive.\n\nCurrent status: IN PROGRESS\nBlockers: Need sign-off from IT Security (Ben Glisan's team)\nNew target deadline: January 15, 2002 (per your suggestion, pending Ken's approval)\n\nThe EES dependency is noted - I'll schedule a sync with Louise Kitchen next week.\n\nThe Raptor vehicles also have some exposure here that I need to discuss \nprivately with Ken before we proceed.\n\nAndy",
+    "timestamp": "2001-10-17T14:05:00",
+    "thread_id": "Pipeline Migration - Status Update",
+    "raw_headers": {
+      "Message-ID": "<msg003@enron.com>",
+      "From": "andrew.fastow@enron.com",
+      "To": "jeff.skilling@enron.com",
+      "Subject": "Pipeline Migration - Status Update",
+      "Date": "Wed, 17 Oct 2001 14:05:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.210226"
+  },
+  {
+    "source_id": "email_15eb6ed849",
+    "artifact_type": "email",
+    "sender": "kenneth.lay@enron.com",
+    "recipients": [
+      "andrew.fastow@enron.com",
+      "jeff.skilling@enron.com"
+    ],
+    "subject": "RE: Pipeline Migration - Status Update",
+    "body": "Andy, Jeff,\n\nApproved - deadline extended to January 15, 2002.\n\nAndy, let's meet Friday to discuss the Raptor exposure separately.\n\nAlso: the pipeline migration project is now being renamed to \n\"Infrastructure Modernization Initiative\" for external communications.\n\nKen",
+    "timestamp": "2001-10-18T08:55:00",
+    "thread_id": "Pipeline Migration - Status Update",
+    "raw_headers": {
+      "Message-ID": "<msg004@enron.com>",
+      "From": "kenneth.lay@enron.com",
+      "To": "andrew.fastow@enron.com, jeff.skilling@enron.com",
+      "Subject": "RE: Pipeline Migration - Status Update",
+      "Date": "Thu, 18 Oct 2001 08:55:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.210319"
+  },
+  {
+    "source_id": "email_81ab618068",
+    "artifact_type": "email",
+    "sender": "louise.kitchen@enron.com",
+    "recipients": [
+      "andrew.fastow@enron.com"
+    ],
+    "subject": "EES dependency on pipeline data",
+    "body": "Andy,\n\nFollowing up on the pipeline migration. The EES trading platform has a \nCRITICAL dependency on the hourly gas flow data from the pipeline system.\n\nAny migration must be coordinated with my team (EES Systems) at least \n4 weeks in advance. The EES team has 12 engineers who would need to \nadapt their data feeds.\n\nI'm blocked until I get the technical spec from Ben Glisan's IT Security review.\n\nLouise Kitchen\nVP, EES",
+    "timestamp": "2001-10-21T10:22:00",
+    "thread_id": "EES dependency on pipeline data",
+    "raw_headers": {
+      "Message-ID": "<msg005@enron.com>",
+      "From": "louise.kitchen@enron.com",
+      "To": "andrew.fastow@enron.com",
+      "Subject": "EES dependency on pipeline data",
+      "Date": "Mon, 21 Oct 2001 10:22:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.210457"
+  },
+  {
+    "source_id": "email_d61b7ff1b7",
+    "artifact_type": "email",
+    "sender": "ben.glisan@enron.com",
+    "recipients": [
+      "andrew.fastow@enron.com",
+      "louise.kitchen@enron.com"
+    ],
+    "subject": "IT Security Review - Pipeline Migration",
+    "body": "Andy, Louise,\n\nIT Security review is COMPLETE for the Infrastructure Modernization Initiative \n(formerly Pipeline Migration Project).\n\nStatus: APPROVED with conditions\nConditions: \n  1. All data transfers must use TLS 1.2 or higher\n  2. Audit logging must be enabled for 90 days post-migration\n  3. Ben Glisan's team retains admin access during transition\n\nThis unblocks the EES dependency. Louise, you can begin your 4-week \nprep window from today's date.\n\nBen Glisan\nChief Accounting Officer / IT Security Liaison",
+    "timestamp": "2001-10-22T15:40:00",
+    "thread_id": "IT Security Review - Pipeline Migration",
+    "raw_headers": {
+      "Message-ID": "<msg006@enron.com>",
+      "From": "ben.glisan@enron.com",
+      "To": "andrew.fastow@enron.com, louise.kitchen@enron.com",
+      "Subject": "IT Security Review - Pipeline Migration",
+      "Date": "Tue, 22 Oct 2001 15:40:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.210602"
+  },
+  {
+    "source_id": "email_6bc26c37fa",
+    "artifact_type": "email",
+    "sender": "andrew.fastow@enron.com",
+    "recipients": [
+      "kenneth.lay@enron.com",
+      "jeff.skilling@enron.com",
+      "louise.kitchen@enron.com",
+      "ben.glisan@enron.com"
+    ],
+    "subject": "Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+    "body": "All,\n\nDue to the ongoing SEC investigation and my need to focus on Enron's \nfinancial restatements, I am transferring ownership of the \nInfrastructure Modernization Initiative to Jeff Skilling effective immediately.\n\nJeff, you now have full ownership of this project.\nThe January 15, 2002 deadline remains in place.\n\nI apologize for any disruption. This is a critical project and deserves \nfull attention I cannot currently provide.\n\nAndy Fastow\nCFO, Enron",
+    "timestamp": "2001-11-02T09:00:00",
+    "thread_id": "Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+    "raw_headers": {
+      "Message-ID": "<msg007@enron.com>",
+      "From": "andrew.fastow@enron.com",
+      "To": "kenneth.lay@enron.com, jeff.skilling@enron.com, louise.kitchen@enron.com, ben.glisan@enron.com",
+      "Subject": "Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+      "Date": "Fri, 02 Nov 2001 09:00:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.210745"
+  },
+  {
+    "source_id": "email_4c56422494",
+    "artifact_type": "email",
+    "sender": "jeff.skilling@enron.com",
+    "recipients": [
+      "kenneth.lay@enron.com"
+    ],
+    "subject": "RE: Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+    "body": "Ken,\n\nI'm accepting ownership of the Infrastructure Modernization Initiative \nas Andy has stepped down.\n\nHowever, given my own situation with the board, I'd recommend we \nconsider postponing this project until Q2 2002. The January 15 deadline \nis no longer realistic given current circumstances.\n\nCan we discuss? I think Louise Kitchen would be the right long-term owner \ngiven EES's dependency on this system.\n\nJeff",
+    "timestamp": "2001-11-02T11:15:00",
+    "thread_id": "Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+    "raw_headers": {
+      "Message-ID": "<msg008@enron.com>",
+      "From": "jeff.skilling@enron.com",
+      "To": "kenneth.lay@enron.com",
+      "Subject": "RE: Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+      "Date": "Fri, 02 Nov 2001 11:15:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.210893"
+  },
+  {
+    "source_id": "email_1d4494bfb3",
+    "artifact_type": "email",
+    "sender": "kenneth.lay@enron.com",
+    "recipients": [
+      "louise.kitchen@enron.com"
+    ],
+    "subject": "Infrastructure Modernization - New Owner",
+    "body": "Louise,\n\nAfter consultation with the board, I am designating you as the new owner \nof the Infrastructure Modernization Initiative.\n\nUpdated status:\n  - Owner: Louise Kitchen (effective today)\n  - Deadline: POSTPONED - new date TBD (targeting Q2 2002)\n  - Priority: MEDIUM (downgraded from HIGH due to current conditions)\n  - Status: ON HOLD pending board decision on company restructuring\n\nPlease acknowledge receipt.\n\nKenneth Lay\nChairman & CEO",
+    "timestamp": "2001-11-05T08:30:00",
+    "thread_id": "Infrastructure Modernization - New Owner",
+    "raw_headers": {
+      "Message-ID": "<msg009@enron.com>",
+      "From": "kenneth.lay@enron.com",
+      "To": "louise.kitchen@enron.com",
+      "Subject": "Infrastructure Modernization - New Owner",
+      "Date": "Mon, 05 Nov 2001 08:30:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.211046"
+  },
+  {
+    "source_id": "email_98651381d9",
+    "artifact_type": "email",
+    "sender": "louise.kitchen@enron.com",
+    "recipients": [
+      "kenneth.lay@enron.com"
+    ],
+    "subject": "RE: Infrastructure Modernization - New Owner",
+    "body": "Ken,\n\nAcknowledged. I accept ownership of the Infrastructure Modernization Initiative.\n\nCurrent team: EES Systems (12 engineers)\nDependencies resolved: IT Security approved (per Ben Glisan, Oct 22)\nStatus: ON HOLD as directed\n\nI will maintain the project plan and be ready to resume on 48-hour notice \nif the board decides to proceed.\n\nLouise Kitchen\nVP, EES / Project Owner, Infrastructure Modernization Initiative",
+    "timestamp": "2001-11-05T14:20:00",
+    "thread_id": "Infrastructure Modernization - New Owner",
+    "raw_headers": {
+      "Message-ID": "<msg010@enron.com>",
+      "From": "louise.kitchen@enron.com",
+      "To": "kenneth.lay@enron.com",
+      "Subject": "RE: Infrastructure Modernization - New Owner",
+      "Date": "Mon, 05 Nov 2001 14:20:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.211222"
+  },
+  {
+    "source_id": "email_fffc0496e3",
+    "artifact_type": "email",
+    "sender": "jeff.skilling@enron.com",
+    "recipients": [
+      "board@enron.com"
+    ],
+    "subject": "FWD: Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+    "body": "FYI - forwarding for board awareness.",
+    "timestamp": "2001-11-02T12:00:00",
+    "thread_id": "Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+    "raw_headers": {
+      "Message-ID": "<msg007_fwd@enron.com>",
+      "From": "jeff.skilling@enron.com",
+      "To": "board@enron.com",
+      "Subject": "FWD: Infrastructure Modernization Initiative - OWNERSHIP CHANGE",
+      "Date": "Fri, 02 Nov 2001 12:00:00 -0600"
+    },
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "is_redacted": false,
+    "ingested_at": "2026-03-08T17:50:30.211302"
+  }
+]

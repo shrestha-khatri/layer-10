@@ -1,0 +1,34 @@
+Message-ID: <real_enron_003@enron.com>
+From: andrew.fastow@enron.com
+To: jeff.skilling@enron.com
+Subject: Raptor Update - CONFIDENTIAL
+Date: Wed, 15 Aug 2001 09:15:00 -0500
+
+Jeff,
+
+Per your request, here is the status on the Raptor vehicles.
+
+Raptor I (Talon): Exposure is $192M. The hedges are performing as 
+designed but the underlying asset values have declined.
+
+Raptor II (Timberwolf): Exposure is $163M. This one concerns me most - 
+the credit capacity is nearly exhausted.
+
+Raptor III (Pronghorn): Exposure is $87M. More manageable.
+
+Raptor IV (Bobcat): Exposure is $76M. Still within acceptable parameters.
+
+Total consolidated exposure: approximately $518M
+
+The good news is that under current GAAP interpretation, these remain 
+off-balance-sheet. Ben Glisan and Rick Causey have confirmed this.
+
+I strongly recommend we address this before Q3 earnings. I have a 
+proposal to restructure the vehicles that would reduce our reported 
+exposure.
+
+Recommend we meet with Ken this week - my assistant Anne Yaeger can 
+coordinate.
+
+Andy Fastow
+CFO

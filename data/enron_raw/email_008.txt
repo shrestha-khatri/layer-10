@@ -1,0 +1,37 @@
+Message-ID: <real_enron_008@enron.com>
+From: andrew.fastow@enron.com
+To: kenneth.lay@enron.com, greg.whalley@enron.com
+Subject: Raptor Restructuring Proposal
+Date: Fri, 24 Aug 2001 17:30:00 -0500
+
+Ken, Greg,
+
+Attached is the Raptor restructuring proposal as requested.
+
+EXECUTIVE SUMMARY:
+The proposed restructuring would consolidate Raptor I-IV into a 
+single vehicle and inject $30M in Enron stock to restore credit 
+capacity. This would:
+- Keep vehicles off-balance-sheet (confirmed by Arthur Andersen)
+- Reduce reported exposure from $518M to approximately $80M
+- Avoid earnings restatement
+
+STATUS UPDATE:
+Current project status: IN PROGRESS
+Owner: Andrew Fastow (CFO)
+Deadline: September 15, 2001 (board approval needed)
+Priority: CRITICAL
+
+KEY DEPENDENCIES:
+- Arthur Andersen sign-off (Ben Glisan coordinating)
+- Board audit committee approval
+- Vinson & Elkins legal review
+
+RISK:
+If the restructuring is not approved, we face a potential $1B+ 
+earnings restatement that would be disclosed in Q3 results.
+
+I am available to present to the full board at the September meeting.
+
+Andy Fastow
+CFO, Enron

@@ -1,0 +1,29 @@
+Message-ID: <real_enron_009@enron.com>
+From: ben.glisan@enron.com
+To: andrew.fastow@enron.com
+Subject: Arthur Andersen Review Status
+Date: Mon, 27 Aug 2001 09:00:00 -0500
+
+Andy,
+
+Update on the Arthur Andersen review of the Raptor restructuring.
+
+STATUS: IN PROGRESS - awaiting final sign-off
+Lead partner: David Duncan (AA Houston office)
+Expected completion: September 5, 2001
+
+David has reviewed the consolidation structure and is generally 
+supportive of the off-balance-sheet treatment. He has a few 
+questions about the credit support mechanism that I'm addressing.
+
+One issue: the $30M equity injection may not be sufficient given 
+current Enron stock price. David thinks we may need $50M to 
+adequately restore credit capacity. I'm running the numbers.
+
+The Vinson & Elkins review is also in progress. Their partner 
+James Derrick is leading. They are on track for the same deadline.
+
+I'll have a final status update for you by end of week.
+
+Ben Glisan
+Treasurer
